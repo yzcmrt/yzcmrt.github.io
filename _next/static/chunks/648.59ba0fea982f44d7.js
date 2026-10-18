@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[648],{5648:(e,r,n)=>{n.d(r,{buildSuiTransfer:()=>t});var s=n(8968);function t(e,r,n){if(n<=0n||n>=1n<<64n)throw Error("Invalid SUI amount");let t=new s.Z;t.setSender(e);let[u]=t.splitCoins(t.gas,[t.pure.u64(n)]);return t.transferObjects([u],t.pure.address(r)),t}}}]);

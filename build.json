@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "buildId": "e254e87b7354-20261018190230164",
+  "builtAt": "2026-10-18T19:02:30.164Z",
+  "gitCommit": "e254e87b735435535801d8af76db2466342c734d",
+  "gitDirty": false,
+  "nodeVersion": "v24.19.0",
+  "packageManager": "npm@10.9.4",
+  "lockfileSha256": "12eee921b40fb0a42054c2b8bd6efad61dc2ef2f0693ece4e611aef7edefae6c",
+  "artifactSha256": "357417fda4d4b8c93469c243143424a55130b6e9ea48f64899b8ebb2ed5fc58e"
+}

@@ -1,21 +1,103 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
 <url>
-<loc>https://mertyazici.is-a.dev</loc>
-<lastmod>2026-09-08T16:27:32.700Z</lastmod>
-<changefreq>yearly</changefreq>
-<priority>1</priority>
+<loc>https://mertyazici.is-a.dev/en/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/" />
 </url>
 <url>
-<loc>https://mertyazici.is-a.dev/projects</loc>
-<lastmod>2026-09-08T16:27:32.700Z</lastmod>
-<changefreq>monthly</changefreq>
-<priority>0.8</priority>
+<loc>https://mertyazici.is-a.dev/en/projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/" />
 </url>
 <url>
-<loc>https://mertyazici.is-a.dev/contact</loc>
-<lastmod>2026-09-08T16:27:32.700Z</lastmod>
-<changefreq>yearly</changefreq>
-<priority>0.5</priority>
+<loc>https://mertyazici.is-a.dev/en/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/contact/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/contact/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/bull-scan/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/bull-scan/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/bull-scan/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/beermatik/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/beermatik/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/beermatik/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/mempay/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/mempay/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/mempay/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/fibo-agent/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/fibo-agent/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/fibo-agent/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/restaurant-finder/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/restaurant-finder/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/restaurant-finder/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/telegram-2024/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/telegram-2024/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/telegram-2024/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/en/projects/telegram-2025/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/telegram-2025/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/telegram-2025/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/contact/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/contact/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/contact/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/bull-scan/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/bull-scan/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/bull-scan/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/beermatik/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/beermatik/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/beermatik/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/mempay/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/mempay/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/mempay/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/fibo-agent/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/fibo-agent/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/fibo-agent/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/restaurant-finder/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/restaurant-finder/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/restaurant-finder/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/telegram-2024/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/telegram-2024/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/telegram-2024/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/telegram-2025/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/telegram-2025/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/telegram-2025/" />
 </url>
 </urlset>
