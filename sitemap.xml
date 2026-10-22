@@ -16,6 +16,11 @@
 <xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/contact/" />
 </url>
 <url>
+<loc>https://mertyazici.is-a.dev/en/projects/nmfp/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/nmfp/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/nmfp/" />
+</url>
+<url>
 <loc>https://mertyazici.is-a.dev/en/projects/bull-scan/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/bull-scan/" />
 <xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/bull-scan/" />
@@ -64,6 +69,11 @@
 <loc>https://mertyazici.is-a.dev/tr/contact/</loc>
 <xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/contact/" />
 <xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/contact/" />
+</url>
+<url>
+<loc>https://mertyazici.is-a.dev/tr/projects/nmfp/</loc>
+<xhtml:link rel="alternate" hreflang="en" href="https://mertyazici.is-a.dev/en/projects/nmfp/" />
+<xhtml:link rel="alternate" hreflang="tr" href="https://mertyazici.is-a.dev/tr/projects/nmfp/" />
 </url>
 <url>
 <loc>https://mertyazici.is-a.dev/tr/projects/bull-scan/</loc>
